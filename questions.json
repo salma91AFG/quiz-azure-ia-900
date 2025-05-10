@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Quel service Azure permet de créer des modèles ML sans coder ?",
+    "choices": ["Azure ML Studio", "Azure DevOps", "Azure Synapse", "Azure Container Apps"],
+    "answer": "Azure ML Studio"
+  },
+  {
+    "question": "Lequel est un service de traitement du langage naturel ?",
+    "choices": ["Computer Vision", "Translator", "Speech-to-Text", "Form Recognizer"],
+    "answer": "Translator"
+  }
+]
